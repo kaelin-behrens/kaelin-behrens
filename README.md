@@ -4,4 +4,14 @@ I'm a recent graduate of Dev Academy Aotearoa where I have become a fullstack Re
 
 I'm now studying full time to finish a degree in Criminology while continuing to work on projects, old and new. I'm currently teaching myself to use Godot and working on the concepts for a game of my own. My goal is to build something that can be both fun and educational, and to have it published by BIGMODE, a company led by a creator I respect with a vision for the gaming industry that can only make it better for everyone.
 
-Feel free to browse my work!
+Please feel free to browse my work.
+
+### Tech Stack
+
+- JavaScript
+- CSS
+- HTML5
+- SQLite
+- ReactJs
+- Node.js
+- Github
